@@ -56,3 +56,5 @@ long_query_time = 2
 
 skip_innodb_doublewrite
 innodb_flush_log_at_trx_commit = 0
+
+default_authentication_plugin = mysql_native_password

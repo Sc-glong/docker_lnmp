@@ -1,7 +1,7 @@
 From nginx:1.15.5
 
 #维护者信息
-MAINTAINER zhangdeTalk 2393222021@qq.com
+MAINTAINER glong 15703276938@163.com
 
 #时区
 ENV TZ Asia/Shanghai
